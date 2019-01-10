@@ -1,0 +1,118 @@
+body{
+    background-color:red;
+}
+
+p{
+    height:120px;
+}
+h2{
+    color:magenta;
+}
+
+.colors{
+    -webkit-animation-duration:20s;
+    animation-duration: 20s;
+    webkit-transition: opacity 2s linear;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: mtgColors;
+    animation-name:mtgColors;
+    background-image:url("https://img.scryfall.com/mci/scans/en/c13/339.jpg");
+    width:20%;
+    height:450px;
+}
+
+@keyframes mtgColors{
+    0%{
+        background-image:url("https://img.scryfall.com/mci/scans/en/c13/339.jpg");
+        
+    }
+    20%{
+        background-image:url("https://img.scryfall.com/mci/scans/en/c13/342.jpg");
+    }
+    40%{
+        background-image:url("https://img.scryfall.com/mci/scans/en/c13/345.jpg");
+    }
+    60%{
+        background-image:url("https://img.scryfall.com/mci/scans/en/c13/351.jpg");
+    }
+    80%{
+        background-image:url("https://img.scryfall.com/mci/scans/en/c13/354.jpg");
+    }
+    100%{
+        background-image:url("https://img.scryfall.com/mci/scans/en/c13/339.jpg");
+    }
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+img.banner{
+    width: 100%;
+    height: 125px;
+}
+
+.centered{
+    position: relative;
+    width: 900px;
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    margin: 100px 0 200px -550px;
+    background: white;
+}
+
+.center{
+    position: relative;
+    left: 25%;
+}
+
+img.anatomy{
+    width:500px;
+}
+
+.side-by-side{
+    position:relative;
+    padding: 10px;
+}
+
+.right{
+    padding: 10px;
+    float: right;
+}
+
+b{
+    padding: 10px;
+}
+
+td, th{
+    border: 1px solid #dddddd;
+}
+table{
+    border-collapse: collapse;
+}
+
+@font-face {
+    font-family: ComicNeue;
+    src: url("Web/ComicNeue-Bold.woff");
+    font-weight: bold;
+}
+
+div {
+    font-family: ComicNeue;
+}

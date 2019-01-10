@@ -1,0 +1,9 @@
+﻿URL: https://people.rit.edu/cxl8338/index.html
+
+
+
+
+RIT’s hosting service was intuitive for me but this may be due to my experience already working with hosting services. I could see problems coming up with navigating and figuring out where to go to get to your hosting subdirectory. I had FileZilla on my computer already due to my usage of other hosting services.
+
+
+I had no issues publishing my website but ran into a small problem with getting my CSS functional. It took me a minute to remember that once uploaded, my files are no longer local so I cannot supply relative filepaths. This was solved fairly quickly when I pointed the stylesheets to the right directory. Due to a compounding of work this week I could not update my website beyond getting the functionality back but next week seems to be a lul in workload so I should be able to get my site ready for peer review.

@@ -1,0 +1,54 @@
+<!-- Author: Christian Ling -->
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+            <title>Simply Ramen</title>
+            
+            <!-- external stylesheet localhost -->
+            <link rel="stylesheet" type="text/css" href="./static/css/initialCss.css?v=1" >
+            
+            <!-- external stylesheet live site 
+            <link rel="stylesheet" type="text/css" href="https://people.rit.edu/cxl8338/static/css/initialCss.css?v=1" > -->
+            
+        </head>
+        
+        <body>
+            <!--navbar as requested -->
+            <div class="navbar">
+            
+              <a href="index.html"><img width="100px" height="50px" src="static/images/simply-ramen.jpg" alt="logo" /></a>
+              <a href="index.html">Home</a>
+              <a href="menu.html">Menu</a>
+              <a href="location.html">Locations</a>
+              <a href="apply.html">Apply Here</a>
+              <a href="contact-us.html">Contact Us</a>
+            </div>
+            <!-- 
+                five images into your website - you may borrow from the web for purposes of the project (cite the sources for each image, or other borrowed element, in the comments of your HTML code)
+                An unordered or ordered list - this might be effectively used on the services page
+            -->
+            <div class="banner">
+                <!-- borrowed image from https://www.seriouseats.com/recipes/images/2015/02/20150215-vegan-ramen-recipe-01-1500x1125.jpg -->
+                <img class="banner" src="static/images/ramen-banner.jpg" alt="My banner" />
+            </div>
+            <div class="centered">
+                <!-- no php and no mailing domains so i 
+                cant actually send the post request -->
+                <form action="POST">
+                    Apply Now:
+                    <br />
+                    First Name: <input type="text" placeholder="First Name" /><br />
+                    Last Name: <input type="text" placeholder="Last Name" /><br />
+                    Email: <input type="text" placeholder="Email" /><br />
+                    Resume: <input type="file" multiple /><br />
+                    <button>SUBMIT</button>
+                </form>
+            </div>
+            
+            <!-- not actually copywritten, just an example footer -->
+            <footer>COPYRIGHT 2018 Simply Ramen</footer>
+        </body>
+        
+    </html>
+    

@@ -1,0 +1,7 @@
+The URL to your website and the files for your website (zipped)
+A short 2-4 paragraph summary of your completed project describing choices that you made and why
+
+URL: https://people.rit.edu/cxl8338/simply-ramen/index.html
+
+The choices I made were mainly to mimic the websites of popular ramen restaurants that I have eaten at. The homepage functions like the news and about us pages, and could be extended to include a twitter feed to show reviews. The inclusion of a food challenge was a spontaneous addition as food challenges usually draws some customers. Whether people want the thrill of competing, the thrill of succeeding or just eating casually, all venues should be covered. 
+The contact me and application page were built simply for function as php is not covered in the course (and finding a mailhosting server is a pain). The menu would be better served in a table but lists were required for this component. 

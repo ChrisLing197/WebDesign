@@ -1,0 +1,29 @@
+updated website url: https:people.rit.edu/cxl8338
+
+
+validator: https://www.freeformatter.com/html-validator.html
+My validation experience was mostly comprised of realizing things i overlooked in my coding. For example, i forgot to use the list element tag and used unorganized list tags instead. I also learned some validation that i needed to know. For example, not having spaces in filenames. I will need to revisit these sites when I finish the other pages too.
+
+
+The first thing I learned is that Dreamweaver allows shortcuts as a development environment. This is similar to the functionality as environments such as codeblocks. The shortcuts allow coding efficiency at the cost of possibly forgetting the basic tag names or structures. The name of the video I used was https://helpx.adobe.com/dreamweaver/how-to/edit-code-view.html?playlist=/ccx/v1/collection/product/dreamweaver/segment/designer/explevel/advanced/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com. 
+The second thing was connecting and publishing your website. The tutorial is from https://helpx.adobe.com/dreamweaver/how-to/publish-manage-websites.html?playlist=/ccx/v1/collection/product/dreamweaver/segment/designer/explevel/advanced/applaunch/basictraining/collection.ccx.js&ref=helpx.adobe.com. Although we have been using this in class, this may be important for future development in the future. Knowledge of Godaddy or other webhosting services will be important when practicing skills and building a portfolio.
+The final thing I looked at was preprocessors of CSS for evaluation. The tutorial is https://helpx.adobe.com/dreamweaver/how-to/basics-css-preprocessors.html?playlist=/ccx/v1/collection/product/dreamweaver/segment/designer/explevel/advanced/applaunch/basictraining/collection.ccx.js&ref=helpx.adobe.com. Preprocessors seem useful to use variables in a document which allows you to develop uniform changes more easily with only 1 change rather than 50. 
+
+The pros of Dreamweaver:
+- fast development with tag shortcuts
+- colored tags for readability
+- compilers and linters
+- filesharing with the cloud.
+
+The cons of Dreamweaver:
+- Shortcuts are bad for teaching, but good for developing
+- paid software is not good for starting companies or developers
+
+Alternatives to Dreamweaver:
+Quanta Plus
+Aptana
+CoffeeCup HTML Editor
+OpenBEXI
+Bluefish
+
+Source:https://onextrapixel.com/10-best-alternatives-to-adobe-dreamweaver/

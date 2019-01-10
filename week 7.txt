@@ -1,0 +1,16 @@
+1. A 1-2 paragraph summary of the plan for your website (what is it about, what type of information will be found there).
+
+My plan for my website is an entertainment and informative look into Magic the Gathering. The main page will hold general links for Magic the Gathering and hopefully can include the store locator function from Wizards of the Coast (abbreviated WotC). This page would also include a tutorial and videos to learn how to play. The page labeled WotC would be an about the game page and a link to WotC's page. The page labeled formats would give an overview of the formats of Magic the Gathering. Finally, the page labeled deck help would be tips for deck building along with some embeded videos so that users would be able to easily follow audio help.
+
+2. The goals and/or objectives of your website (what is the purpose of your website, what are you trying to achieve).
+
+The goal is informing about Magic the Gathering and hopefully providing tips that visitors may not know.
+
+3. A basic hierarchical site map that includes at least five pages (your index.html homepage, plus 4 others) - if you still only have one web page so far, that is OK, but you'll need to put in some additional thought here (the site map should show how your pages are or will be connected). The site map FORMAT IS UP TO YOU (i.e., diagram, bulleted list, etc.) but must be clear!
+
+Each page will have the same basic structure. The top of the page will be the navbar. Then the banner will be shown. Below that, the content of the page will be shown. If i can figure out how to make the navbar scroll with the page, I will apply that but otherwise, the navbar will be fixed.
+
+4. A wireframe for at least TWO of the five pages within your website, including the index.html homepage (required) and any ONE other page of your choice (this will show WHAT you intend to put on these two pages, and how it will be laid out). Again, the FORMAT IS UP TO YOU but the content that you plan to include must be clear!
+
+1- format.png
+2- deck lists.png
